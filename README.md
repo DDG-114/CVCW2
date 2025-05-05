@@ -23,9 +23,5 @@ python app.py #using GUI
 
 
 
-## Reference
-1) [Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)   
-2) [yolov5](https://github.com/ultralytics/yolov5)  
-3) [deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch)       
-4) [deep_sort](https://github.com/nwojke/deep_sort)   
+I can't upload .pt files (larger than 360mb) due to github file size limit，please use this to download the .pt file, and put it in the **weights**floder.
 
