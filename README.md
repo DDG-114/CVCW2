@@ -24,4 +24,5 @@ python app.py #using GUI
 
 
 I can't upload .pt files (larger than 360mb) due to github file size limit，please use this to download the .pt file, and put it in the **weights**floder.
+https://drive.google.com/drive/folders/1rA6prLERdgrEViqdbOH1vDAJfdZ7qFaJ?usp=sharing
 
